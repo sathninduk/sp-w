@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://starparty:quGlVqvlyHjYoyLV@cluster0.4ixac.mongodb.net/workshop?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://starparty:quGlVqvlyHjYoyLV@cluster0.abqjx.mongodb.net/workshop?retryWrites=true&w=majority', {
     useNewUrlParser: true,
 	useUnifiedTopology: true,
 	useFindAndModify: false,
